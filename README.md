@@ -76,3 +76,7 @@ There are two flags that will allow for the saving of the data that the scraper 
 icy-scraper has automated tests. To run them, just run the script that is native to the operating system that you are using.
 
     runTests.bat OR runTests.sh
+    
+# Contributors
+[jacnel2](https://github.com/jacnel2)
+[SemiDoge](https://github.com/SemiDoge)
